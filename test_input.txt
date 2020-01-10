@@ -1,0 +1,277 @@
+Jeffrey Akwasi-Appiah Ofori	3
+Jacques Bang Sørensen	4
+Andreas Baes Jensen	6
+Lucas Sander Petersen	8
+Mads Rønne	9
+Danni Caseru König	13
+Jonas Magnussen	15
+Gustav Vedsted Therkildsen	19
+Kasper Vilfort	24
+Simon Richter	26
+Casper Loween Jensen	97
+Reserver
+Oskar Tranberg	10
+Kevin Bechmann Timm	11
+Lars Emil Juel Andersen	20
+Marcus Porsgrunn	25
+Oliver Nicolai Djuraas Korch	89
+Jeffrey Akwasi-Appiah Ofori	3
+Jacques Bang Sørensen	4
+Andreas Baes Jensen	6
+Jamil James Fearrington	7
+Lucas Sander Petersen	8
+Mads Rønne	9
+Danni Caseru König	13
+Jonas Magnussen	15
+Gustav Vedsted Therkildsen	19
+Nicolai Clausen	23
+Kasper Vilfort	24
+Reserver
+Oskar Tranberg	10
+Kevin Bechmann Timm	11
+Festim Mustafi	17
+Marcus Porsgrunn	25
+Oliver Nicolai Djuraas Korch	89
+Casper Loween Jensen	97
+3	Jeffrey Akwasi-Appiah Ofori
+4	Jacques Bang Sørensen
+6	Andreas Baes Jensen
+7	Jamil James Fearrington
+8	Lucas Sander Petersen
+9	Mads Rønne
+11	Kevin Bechmann Timm
+15	Jonas Magnussen
+19	Gustav Vedsted Therkildsen
+23	Nicolai Clausen
+24	Kasper Vilfort
+Reserver
+10	Oskar Tranberg
+22	Seyid Yildiz
+25	Marcus Porsgrunn
+26	Simon Richter
+89	Oliver Nicolai Djuraas Korch
+97	Casper Loween Jensen
+Jeffrey Akwasi-Appiah Ofori	3
+Jacques Bang Sørensen	4
+Jamil James Fearrington	7
+Lucas Sander Petersen	8
+Mads Rønne	9
+Kevin Bechmann Timm	11
+Danni Caseru König	13
+Jonas Magnussen	15
+Gustav Vedsted Therkildsen	19
+Nicolai Clausen	23
+Kasper Vilfort	24
+Reserver
+Oskar Tranberg	10
+Seyid Yildiz	22
+Marcus Porsgrunn	25
+Simon Richter	26
+Oliver Nicolai Djuraas Korch	89
+Casper Loween Jensen	97
+3	Jeffrey Akwasi-Appiah Ofori
+4	Jacques Bang Sørensen
+8	Lucas Sander Petersen
+9	Mads Rønne
+11	Kevin Bechmann Timm
+15	Jonas Magnussen
+19	Gustav Vedsted Therkildsen
+23	Nicolai Clausen
+24	Kasper Vilfort
+26	Simon Richter
+97	Casper Loween Jensen
+Reserver
+7	Jamil James Fearrington
+10	Oskar Tranberg
+13	Danni Caseru König
+22	Seyid Yildiz
+25	Marcus Porsgrunn
+89	Oliver Nicolai Djuraas Korch
+3	Jeffrey Akwasi-Appiah Ofori
+4	Jacques Bang Sørensen
+8	Lucas Sander Petersen
+9	Mads Rønne
+10	Oskar Tranberg
+11	Kevin Bechmann Timm
+15	Jonas Magnussen
+19	Gustav Vedsted Therkildsen
+23	Nicolai Clausen
+24	Kasper Vilfort
+26	Simon Richter
+Reserver
+7	Jamil James Fearrington
+13	Danni Caseru König
+16	Nicolaj Fallentin
+17	Festim Mustafi
+22	Seyid Yildiz
+25	Marcus Porsgrunn
+97	Casper Loween Jensen
+Jeffrey Akwasi-Appiah Ofori	3
+Jacques Bang Sørensen	4
+Aleksander Lazarevic	5
+Jamil James Fearrington	7
+Lucas Sander Petersen	8
+Oskar Tranberg	10
+Kevin Bechmann Timm	11
+Jonas Magnussen	15
+Festim Mustafi	17
+Nicolai Clausen	23
+Kasper Vilfort	24
+Reserver
+Danni Caseru König	13
+Gustav Vedsted Therkildsen	19
+Oliver Nicolai Djuraas Korch	89
+Casper Loween Jensen	97
+3	Jeffrey Akwasi-Appiah Ofori
+4	Jacques Bang Sørensen
+5	Aleksander Lazarevic
+7	Jamil James Fearrington
+8	Lucas Sander Petersen
+10	Oskar Tranberg
+17	Festim Mustafi
+19	Gustav Vedsted Therkildsen
+23	Nicolai Clausen
+26	Simon Richter
+89	Oliver Nicolai Djuraas Korch
+Reserver
+11	Kevin Bechmann Timm
+13	Danni Caseru König
+22	Seyid Yildiz
+24	Kasper Vilfort
+97	Casper Loween Jensen
+Jeffrey Akwasi-Appiah Ofori	3
+Jacques Bang Sørensen	4
+Aleksander Lazarevic	5
+Jamil James Fearrington	7
+Mads Rønne	9
+Oskar Tranberg	10
+Festim Mustafi	17
+Gustav Vedsted Therkildsen	19
+Nicolai Clausen	23
+Simon Richter	26
+Oliver Nicolai Djuraas Korch	89
+Reserver
+Andreas Baes Jensen	6
+Kevin Bechmann Timm	11
+Seyid Yildiz	22
+Kasper Vilfort	24
+Casper Loween Jensen	97
+3	Jeffrey Akwasi-Appiah Ofori
+4	Jacques Bang Sørensen
+7	Jamil James Fearrington
+8	Lucas Sander Petersen
+9	Mads Rønne
+10	Oskar Tranberg
+11	Kevin Bechmann Timm
+17	Festim Mustafi
+19	Gustav Vedsted Therkildsen
+23	Nicolai Clausen
+89	Oliver Nicolai Djuraas Korch
+Reserver
+15	Jonas Magnussen
+24	Kasper Vilfort
+26	Simon Richter
+97	Casper Loween Jensen
+Jeffrey Akwasi-Appiah Ofori	3
+Aleksander Lazarevic	5
+Jamil James Fearrington	7
+Lucas Sander Petersen	8
+Oskar Tranberg	10
+Kevin Bechmann Timm	11
+Jonas Magnussen	15
+Nicolai Clausen	23
+Frederik Emil Andersen	25
+Simon Richter	26
+Oliver Nicolai Djuraas Korch	89
+Reserver
+Jacques Bang Sørensen	4
+Mads Rønne	9
+Danni Caseru König	13
+Seyid Yildiz	22
+Kasper Vilfort	24
+3	Jeffrey Akwasi-Appiah Ofori
+5	Aleksander Lazarevic
+7	Jamil James Fearrington
+8	Lucas Sander Petersen
+9	Mads Rønne
+15	Jonas Magnussen
+20	Lars Emil Juel Andersen
+23	Nicolai Clausen
+25	Frederik Emil Andersen
+26	Simon Richter
+89	Oliver Nicolai Djuraas Korch
+Reserver
+11	Kevin Bechmann Timm
+13	Danni Caseru König
+22	Seyid Yildiz
+24	Kasper Vilfort
+97	Casper Loween Jensen
+Jeffrey Akwasi-Appiah Ofori	3
+Aleksander Lazarevic	5
+Jamil James Fearrington	7
+Lucas Sander Petersen	8
+Mads Rønne	9
+Jonas Magnussen	15
+Lars Emil Juel Andersen	20
+Nicolai Clausen	23
+Kasper Vilfort	24
+Frederik Emil Andersen	25
+Simon Richter	26
+Reserver
+Nicolaj Fallentin	1
+Kevin Bechmann Timm	11
+Danni Caseru König	13
+Gustav Vedsted Therkildsen	19
+3	Jeffrey Akwasi-Appiah Ofori
+5	Aleksander Lazarevic
+7	Jamil James Fearrington
+8	Lucas Sander Petersen
+9	Mads Rønne
+10	Oskar Tranberg
+11	Kevin Bechmann Timm
+15	Jonas Magnussen
+23	Nicolai Clausen
+24	Kasper Vilfort
+25	Frederik Emil Andersen
+Reserver
+16	Nicolaj Fallentin
+17	Festim Mustafi
+19	Gustav Vedsted Therkildsen
+22	Seyid Yildiz
+26	Simon Richter
+97	Casper Loween Jensen
+Jeffrey Akwasi-Appiah Ofori	3
+Aleksander Lazarevic	5
+Jamil James Fearrington	7
+Lucas Sander Petersen	8
+Mads Rønne	9
+Oskar Tranberg	10
+Kevin Bechmann Timm	11
+Jonas Magnussen	15
+Nicolai Clausen	23
+Kasper Vilfort	24
+Frederik Emil Andersen	25
+Reserver
+Danni Caseru König	13
+Festim Mustafi	17
+Gustav Vedsted Therkildsen	19
+Lars Emil Juel Andersen	20
+Oliver Nicolai Djuraas Korch	89
+3	Jeffrey Akwasi-Appiah Ofori
+5	Aleksander Lazarevic
+7	Jamil James Fearrington
+8	Lucas Sander Petersen
+9	Mads Rønne
+10	Oskar Tranberg
+11	Kevin Bechmann Timm
+20	Lars Emil Juel Andersen
+23	Nicolai Clausen
+24	Kasper Vilfort
+25	Frederik Emil Andersen
+Reserver
+4	Jacques Bang Sørensen
+13	Danni Caseru König
+17	Festim Mustafi
+19	Gustav Vedsted Therkildsen
+22	Seyid Yildiz
+89	Oliver Nicolai Djuraas Korch
